@@ -1,0 +1,7 @@
+D:\Projects\Dersler\BilgisayarProgramlama\Odevler\Optik\OptikOdev\OptikOdev\bin\Debug\OptikOdev.exe.config
+D:\Projects\Dersler\BilgisayarProgramlama\Odevler\Optik\OptikOdev\OptikOdev\bin\Debug\OptikOdev.exe
+D:\Projects\Dersler\BilgisayarProgramlama\Odevler\Optik\OptikOdev\OptikOdev\bin\Debug\OptikOdev.pdb
+D:\Projects\Dersler\BilgisayarProgramlama\Odevler\Optik\OptikOdev\OptikOdev\obj\Debug\OptikOdev.csprojAssemblyReference.cache
+D:\Projects\Dersler\BilgisayarProgramlama\Odevler\Optik\OptikOdev\OptikOdev\obj\Debug\OptikOdev.csproj.CoreCompileInputs.cache
+D:\Projects\Dersler\BilgisayarProgramlama\Odevler\Optik\OptikOdev\OptikOdev\obj\Debug\OptikOdev.exe
+D:\Projects\Dersler\BilgisayarProgramlama\Odevler\Optik\OptikOdev\OptikOdev\obj\Debug\OptikOdev.pdb
